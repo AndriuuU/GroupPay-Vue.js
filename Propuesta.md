@@ -14,14 +14,21 @@ Existen aplicaciones como **Splitwise** o **Tricount**, pero algunas requieren s
 
 ## 4. Funcionalidades Clave
 **Registro e inicio de sesión** con Google/Facebook o sin cuenta.
+
 **Creación de grupos** de gastos para cada viaje, casa o evento.
+
 **Registro de gastos** con fecha, monto y descripción.
+
 **Asignación de participantes** a cada gasto.
+
 **Cálculo automático** de quién debe cuánto a quién.
+
 **Historial de pagos** y ajustes manuales de saldos.
+
 **Notificaciones** para recordar pagos pendientes.
+
 **Exportación de reportes** en PDF o CSV.
-**Modo oscuro y personalización de colores.**
+
 
 ## 5. Tecnologías a Utilizar
 **Frontend:** Vue.js + Vue Router + Pinia (gestión de estado)
